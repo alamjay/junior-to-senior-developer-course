@@ -3,10 +3,10 @@ h1 {
 }
 
 
-/* bad */
-.header .nav .item .link a.important {
-  color: pink;
-}
+/*!* bad *!*/
+/*.header .nav .item .link a.important {*/
+/*  color: pink;*/
+/*}*/
 
 /* good */
 a.important {
